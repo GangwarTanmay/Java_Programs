@@ -1,4 +1,4 @@
 package ProblemsOnRecursion;
 
-public class DigitSum{
+public class DigitSum {
 }
