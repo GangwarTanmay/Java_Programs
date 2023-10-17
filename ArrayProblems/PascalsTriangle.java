@@ -1,5 +1,5 @@
 // Program to print Pascals triangle
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

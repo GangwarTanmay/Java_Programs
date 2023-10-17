@@ -4,7 +4,7 @@ from l to r (both included)
 The values of l and r in queries follow 1-based indexing
  */
 
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

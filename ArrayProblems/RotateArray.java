@@ -3,7 +3,7 @@ for e.g., arr[] = {1, 2, 3, 4, 5}
 after 1 rotation
 arr[] = {5,1,2,3,4}
  */
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

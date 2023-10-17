@@ -1,5 +1,5 @@
 // Checking whether the given array in sorted or not
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

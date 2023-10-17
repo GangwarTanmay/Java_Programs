@@ -5,7 +5,7 @@ e.g., a[]= {1,2,3,4,5}
   pref[i] = pref[i-1] + a[i];
  */
 
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

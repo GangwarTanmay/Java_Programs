@@ -8,7 +8,7 @@
                answer = {1,4,16,100}  ✓
   */
 
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

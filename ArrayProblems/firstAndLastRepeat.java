@@ -1,5 +1,5 @@
 //Program to find first element repeating in an array
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

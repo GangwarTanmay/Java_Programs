@@ -1,5 +1,5 @@
 // Program to sort an array having elements only zero and one using two pointers approach
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

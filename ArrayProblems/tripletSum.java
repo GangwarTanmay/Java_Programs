@@ -1,5 +1,5 @@
 // Program to find triplets of array elements whose sum is equal to the target sum
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

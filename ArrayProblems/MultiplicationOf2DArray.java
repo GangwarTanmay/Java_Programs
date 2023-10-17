@@ -1,5 +1,5 @@
 // Program to multiply two 2d arrays
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // Given a matrix 'a' of dimension nxm and 2 coordinated (l1,r1) and (l2,r2). Return the sum of rectangle from (l1,r1) to (l2,r2)
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

@@ -1,19 +1,20 @@
-package ProblemsOnArray;
+// Program to find transpose of non-square matrix
+package ArrayProblems;
 
 import java.util.Scanner;
 
-public class TransposeSquareMatrix {
-    static void Transpose(int a[][], int r, int c)
+public class TransposeNonSquareMatrix {
+    static int [][] Transpose(int a[][], int r, int c)
     {
-        for(int i=0 ; i<r ; i++)
+        int [][] answer = new int [c][r]; // The order of transpose matrix is reverse that of the original matrix
+        for(int i=0 ; i<c ; i++)
         {
-            for(int j=i ; j<c ; j++)
+            for(int j=0 ; j<r ; j++)
             {
-                int temp = a[i][j];
-                a[i][j] = a[j][i];
-                a[j][i] = temp;
+                answer[i][j] = a[j][i];
             }
         }
+        return answer;
     }
 
     static void print(int a[][], int r, int c)
@@ -27,6 +28,7 @@ public class TransposeSquareMatrix {
             System.out.println();
         }
     }
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no. of rows : ");
@@ -45,10 +47,10 @@ public class TransposeSquareMatrix {
             }
         }
 
+        int ans[][] = Transpose(a,r,c);
         System.out.println("Original matrix is : ");
         print(a,r,c);
         System.out.println("Transpose of matrix is : ");
-        Transpose(a,r,c);
-        print(a,r,c);
+        print(ans,c,r);
     }
 }

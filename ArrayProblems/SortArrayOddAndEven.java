@@ -1,5 +1,5 @@
 // Program to move all the even integer at the beginning of array followed by odd integers. Relative order of array doesn't matter.
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Program to find unique element in an array where all elements are being repeated twice with one value being unique.
 // Approach - Mark the elements which are repeated thus unmarked elements are unique
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

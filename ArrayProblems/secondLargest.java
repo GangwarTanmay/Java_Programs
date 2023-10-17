@@ -1,5 +1,5 @@
 // Program to find second largest element in an array
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

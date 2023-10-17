@@ -1,5 +1,5 @@
 // Program to traverse and print a two-dimensional matrix in spiral order
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

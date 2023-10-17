@@ -1,5 +1,5 @@
 // Program to find last occurrence of an element in array
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

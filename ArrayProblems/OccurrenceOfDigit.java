@@ -1,4 +1,4 @@
-package ProblemsOnArray;// Counting occurrence of each digit in a number
+package ArrayProblems;// Counting occurrence of each digit in a number
 import java.util.Scanner;
 
 public class OccurrenceOfDigit {

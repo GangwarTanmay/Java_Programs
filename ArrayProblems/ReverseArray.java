@@ -1,5 +1,5 @@
 // Program to reverse an array without using second array.
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

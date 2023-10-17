@@ -1,5 +1,5 @@
 // Program to find rectangle sum using prefix sum approach
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 

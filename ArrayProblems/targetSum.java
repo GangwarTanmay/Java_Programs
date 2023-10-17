@@ -1,5 +1,5 @@
 // Program to count pair of array elements whose sum is equal to target Sum
-package ProblemsOnArray;
+package ArrayProblems;
 
 import java.util.Scanner;
 
