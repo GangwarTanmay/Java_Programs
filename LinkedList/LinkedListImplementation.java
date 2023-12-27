@@ -2,13 +2,13 @@ package LinkedList;
 
 public class LinkedListImplementation {
 
-    public static class Node{
+    public static class Node{       // user-defined data-type
         int data;
         Node next;
 
     }
 
-    public static class linkedList{
+    public static class linkedList{     //user defined data structure
 
         static Node head = null;
         static Node tail = null;
