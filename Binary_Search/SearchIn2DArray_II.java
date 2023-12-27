@@ -37,7 +37,7 @@ public class SearchIn2DArray_II {
         System.out.println("Target not present in given array");
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         int [][] a = {{2,4,6,8},{5,6,7,20},{7,11,13,25},{12,14,17,30}};
         int target = 14;
         searchTarget(a,target);
