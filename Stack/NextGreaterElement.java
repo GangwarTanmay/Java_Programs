@@ -38,7 +38,7 @@ public class NextGreaterElement {
         return res;
     }
     public static void main(String[] args) {
-        int [] a = {88 ,57 ,44 ,92 ,28 ,66 ,60 ,37 ,33 ,52 ,38 ,29 ,76 ,8 ,75 };
+        int [] a = {9 ,8 ,4 ,9 ,3 ,1, 10, 4, 6, 4, 2};
         int [] res = findNextGreater(a);
 
         for (int element:
